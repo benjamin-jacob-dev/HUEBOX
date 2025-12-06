@@ -46,7 +46,7 @@ python HUEBOX.py
 ## Exemple de sortie
 
 <p>
-  <img src="screenshot.png" alt="HUEBOX-screenshot" width="500">
+  <img src="HUEBOX-screenshot.png" alt="HUEBOX-screenshot" width="500">
 </p>
 
 
