@@ -1,0 +1,6 @@
+# Huebox - Requirements optimisés pour Python 3.10/3.11
+
+Pillow>=10.0.0,<11.0
+numpy>=1.25.0,<1.26
+scikit-learn>=1.3.0,<1.4
+matplotlib>=3.7.2,<3.9
