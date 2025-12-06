@@ -64,13 +64,13 @@ python HUEBOX.py
 
 ## Structure du projet
 
-HUEBOX/
-├── README.md           # Documentation du projet
-├── requirements.txt    # Dépendances Python
-├── HUEBOX.py           # Code source principal
-├── HUEBOX-Logo.png          # Logo
+HUEBOX/ <br>
+├── README.md           # Documentation du projet <br>
+├── requirements.txt    # Dépendances Python <br>
+├── HUEBOX.py           # Code source principal <br>
+├── HUEBOX-Logo.png          # Logo <br>
 
-Dépendances
+## Dépendances
 Pillow : Manipulation d’images
 numpy : Calcul et traitement des couleurs
 scikit-learn : Clustering KMeans pour extraction de couleurs
